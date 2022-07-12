@@ -10,7 +10,7 @@ int main(){
     double percentile = 83.645236;
     long double mobile = 7205281825;
 
-    printf("Gender: %d\n", gender);
+    printf("Gender: %c\n", gender);
     printf("Age: %hd\n", age);
     printf("Books read: %d\n", books_read);
     printf("Income: %ld\n", income);
